@@ -14,4 +14,4 @@ gamescope -w 1080 -h 1080 -W 1920 -H 1080 -r 320 -S stretch -f --force-grab-curs
 2. gamescope -w 1080 -h 1080 --> makes a custom resolution and starts with it for me i use 1080x1080 (dont judge pls) you can either change it or remove it
 3. all the launch options --> honestly the most important thing is to follow the tutorial and read this so you change whats needed
 
-#### All the steps are in turorial.txt im too lazy to make it better :(
+#### All the steps are in turorial.txt im too lazy to make it look better :(
